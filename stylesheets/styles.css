@@ -5,7 +5,9 @@ body {
   color:#595959;
   font-weight:400;
 }
-
+.venmo{
+  color:rgb(15, 161, 70);
+}
 h1, h2, h3, h4, h5, h6 {
   color:#222;
   margin:0 0 20px;
